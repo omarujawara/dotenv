@@ -1,0 +1,16 @@
+{
+  "name": "dotenv_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omaru",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv-webpack": "^2.0.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
